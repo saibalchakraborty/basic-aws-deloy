@@ -10,7 +10,7 @@ public class SomeController {
 	
 	@GetMapping(value = "/hello")
 	public String sayHelloToAws() {
-		return "Hello Saibal!!";
+		return "Hello Saibal welcome to AWS!!";
 	}
 
 }
